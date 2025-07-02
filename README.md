@@ -39,7 +39,7 @@ I am a dual student pursuing my **Bachelor's degree in Computer Science**. Durin
 
 ## 📌 My Projects
 - 🚀 **[Portfolio](#)** – My personal portfolio website built with Angular  
-- 🎥 **[CelestialStars](#)** – A collection of tools designed to enhance and improve streaming experiences on Twitch  
+- 🎥 **[CelestialStars](https://github.com/Dimiikou/celestial-stars-backend)** – A collection of tools designed to enhance and improve streaming experiences on Twitch  
 
 ## 🌍 Contact Me
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/287306431516901376)  
